@@ -1,0 +1,49 @@
+body {
+  background-color: #D8F781;
+}
+h1 {
+  color: #Fa8258;
+  text-align: center;
+  padding: 1em;
+  font-family: Arial, Chiller;
+}
+
+p {
+  color: #fff;
+    font-style: Italic;
+  background-color: red;
+  padding: 1em;
+  border-radius: 1em;
+}
+p#First {
+  background-color: orange;
+}
+p#hi{
+  background-color: grey;
+   font-size: x-large;
+  
+}
+h3#yo{
+  color: #0101DF;
+  background-color: lightblue;
+  padding: .5em;
+    border-radius: 1em;
+}
+
+li a {
+  padding: 1em;
+  border-radius: 1em;
+}
+li#youtube a{
+  color:red;
+  background-color: #Fa8258;
+}
+li#google a{
+  color: lightblue;
+  background-color: #5882FA;
+  border-radius: 1em;
+}
+li#FB{
+  background-color:#5882FA;
+  border-radius: 1em;
+}
